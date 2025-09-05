@@ -1,6 +1,4 @@
-<TITLE>
-  My First OpenGL project :O
-</TITLE>
+# My First OpenGL project :O
 
 <p>
   I experimented with different shapes and curves and lines and colours and alpha and dots and transformations. Took me so long to trial the exact parameters to look nicer... shag but i learnt a lot hehe.
